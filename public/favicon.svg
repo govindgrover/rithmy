@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <defs>
+    <style>
+      .cls-1 {
+        letter-spacing: 0em;
+      }
+
+      .cls-2 {
+        fill: #ebf3f6;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        fill: #91a49d;
+        font-family: Amaranth-Regular, Amaranth;
+        font-size: 75.92px;
+      }
+    </style>
+  </defs>
+  <path class="cls-2" d="M8.25,127.82c.24.12.24.24,0,.36v-.36Z"/>
+  <text class="cls-4" transform="translate(.5 151.36)"><tspan class="cls-3" x="0" y="0">R</tspan><tspan class="cls-1" x="43.12" y="0">i</tspan><tspan x="62.25" y="0">thmly</tspan></text>
+</svg>
